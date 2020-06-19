@@ -21,3 +21,7 @@ Source, or reference comes first, then the name after ` | ` separator.
 .IMG pic.png | picture
 .REF example.html | example
 ```
+
+## default style
+by default markdown.awk includes link to main.css, if you want
+to change it, edit tge makrdown.awk's BEGIN block.

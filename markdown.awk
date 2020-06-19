@@ -3,7 +3,7 @@
 BEGIN {
 	print "<head>"
 	print "  <title></title>"
-	print "  <link href=\"main.css\" rel=\"stylesheet\">"
+	print "  <link href=\"main.css\" rel=\"stylesheet\">" ## change stylesheet
 	print "</head>"
 	print "<body>"
 	print "<!-- author: 333-9 -->"
