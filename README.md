@@ -2,6 +2,8 @@
 
 This script formats markdown-like syntax into HTML.
 
+![example](example.png)
+
 
 ## differences from markdown
   - `/`    defines <i>italic</i> text `normal /italic/ normal`
